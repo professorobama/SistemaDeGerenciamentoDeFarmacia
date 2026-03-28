@@ -1,4 +1,4 @@
-# Projeto 01 - Página de "Link na Bio"
+# Projeto 01 - Sistema de Gerenciamento de Farmácia"
 
  
 
